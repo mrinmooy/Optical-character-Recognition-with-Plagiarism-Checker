@@ -1,6 +1,6 @@
 # Optical-character-Recognition-with-Plagiarism-Checker
 
-This is an Artificial Inteliigence project built along with my project mates.
+This is an Artificial Inteliigence project that I built along with my project mates.
 
 First we built a plagiarism checker in Python using the scikit-learn library that compares every pair of text file in the same folder and outputs the percentage of similarity among them.
 
